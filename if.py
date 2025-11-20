@@ -12,4 +12,4 @@ else:
 
 print("Script name:",script_name)
 print("Student name:",name)
-print(Roll no:",rollno)
+print("Roll no:",rollno)
